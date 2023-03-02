@@ -1,6 +1,5 @@
-# hibitset
-[![Build Status](https://travis-ci.org/slide-rs/hibitset.svg)](https://travis-ci.org/slide-rs/hibitset)
-[![Crates.io](https://img.shields.io/crates/v/hibitset.svg?maxAge=2592000)](https://crates.io/crates/hibitset)
+# Treebitset
+Fork of Amethyst's hibitset with additional Serde support from a lurking PR that has waited 3 years for merging.  Now you (and more importantly I) can get it here.
 
 Provides hierarchical bit sets, which allow very fast iteration on 
 sparse data structures.
